@@ -1,4 +1,4 @@
-##### PacMan-AI-Agents
+# PacMan-AI-Agents
 Implementation of BFS, DFS, A*, HillClimber, Genetic, MCTS Agents
 
 
